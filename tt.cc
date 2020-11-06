@@ -3,6 +3,8 @@
 using namespace std;
 
 int main(){
-    cout << "yeah bois" << endl;
+    for(int i = 0; i < 10; i++){
+        cout << "yeah bois" << endl;
+    }
     return 0;
 }
